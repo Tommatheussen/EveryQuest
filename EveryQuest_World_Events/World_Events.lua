@@ -705,6 +705,7 @@ EveryQuestData["World Events"] = {
 	{ ["id"] = 7045,["n"] = "A Smokywood Pastures' Thank You!",["r"] = 30,["s"] = 1,},
 	{ ["id"] = 8769,["n"] = "A Ticking Present",["r"] = 40,["s"] = 3,},
 	{ ["id"] = 11528,["n"] = "A Winter Veil Gift",["r"] = 10,["s"] = 3,},
+	{ ["id"] = 13966,["n"] = "A Winter Veil Gift",["r"] = 10,["s"] = 3,},
 	{ ["id"] = 13203,["n"] = "A Winter Veil Gift",["r"] = 10,},
 	{ ["id"] = 6961,["n"] = "Great-father Winter is Here!",["r"] = 10,["s"] = 2,},
 	{ ["id"] = 7021,["n"] = "Great-father Winter is Here!",["r"] = 10,["s"] = 2,},
